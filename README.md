@@ -13,21 +13,13 @@ Names of group members includes:
 5. Favour Isaac
 ## PROGRAMMING LANGUAGE
 * The Languages used by group members are as follows.
-# Read.me
 
-## Description
-This domain is for sale. If you are interested in purchasing it, please contact us at info@nekki.com.
-
-## Contact Information
-For any inquiries or to express your interest in acquiring this domain, please reach out to us at:
-Email: info@nekki.com
-
-## Domain Details
+## 
 | Name | Registration number       | Programming language      |
 |-------------|-------------|-------------|
-| Courage Hussaini | UG18/MDHA/1022    | $10,000     |
-| test.com    | Standard    | $5,000      |
-| demo.com    | Basic       | $2,000      |
+| Courage Hussaini | UG18/MDHA/1022    | HTML     |
+| Dilla Deborah    | UG17/MDHA/1001    | C++      |
+| Bilkisu Yusuf    | UG18/MDHA/1001       | Python      |
 
 Please note that the prices listed above are subject to negotiation.
 
