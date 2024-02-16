@@ -23,9 +23,9 @@ For any inquiries or to express your interest in acquiring this domain, please r
 Email: info@nekki.com
 
 ## Domain Details
-| Domain Name | Type        | Price       |
+| Name | Registration number       | Programming language      |
 |-------------|-------------|-------------|
-| example.com | Premium     | $10,000     |
+| Courage Hussaini | UG18/MDHA/1022    | $10,000     |
 | test.com    | Standard    | $5,000      |
 | demo.com    | Basic       | $2,000      |
 
