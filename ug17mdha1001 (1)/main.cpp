@@ -1,0 +1,17 @@
+#include <iostream>
+
+int main() {
+    std::string name = "Dilla jimruna Deborah";
+    std::string email = "dillajimruna18@gmail.com";
+    std::string slackUsername = "Dilla Deborah";
+    std::string areaOfInterest = "Biotechnology";
+
+    std::cout << "Name: " << name << std::endl;
+    std::cout << "Email: " << email << std::endl;
+    std::cout << "Slack Username: " << slackUsername << std::endl;
+    std::cout << "Area of Interest: " << areaOfInterest << std::endl;
+
+    
+
+    return 0;
+}
