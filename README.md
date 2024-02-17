@@ -18,8 +18,8 @@ Names of group members includes:
 | Courage Hussaini | UG18/MDHA/1022    | HTML     |
 | Dilla Deborah    | UG17/MDHA/1001    | C++      |
 | Bilkisu Yusuf    | UG18/MDHA/1001       | Python      |
-| Ibrahim Imam   | UG18/MDHA/1028   |
-| Java   |
+| Ibrahim Imam   | UG18/MDHA/1028   | Java   |
+| Favour Isaac   | UG18/MDHA/1002   | R   |
 
 # HELP
 To execute the scripts from this repository, a general script is provided that contains information on cloning.
